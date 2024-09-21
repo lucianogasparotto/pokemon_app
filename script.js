@@ -56,6 +56,7 @@ const resetDisplay = () => {
   specialDefense.textContent = '';
   speed.textContent = '';
   searchInput.value = '';
+  types.innerHTML = '';
 }
 
 
